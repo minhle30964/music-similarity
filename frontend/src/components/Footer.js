@@ -34,7 +34,7 @@ const Footer = () => {
             </Link>
             
             <Link 
-              href="https://github.com" 
+              href="https://github.com/minhle30964/music-similarity" 
               target="_blank" 
               rel="noopener noreferrer"
               color="inherit"
